@@ -10,17 +10,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "alexa-sdk": "^1.0.15",
-    "bespoken-tools": "^1.1.1",
+    "alexa-sdk": "^1.0.25",
+    "bespoken-tools": "^1.2.11",
     "chai": "^4.1.2",
     "ffmpeg": "0.0.4",
-    "mocha": "^4.0.1",
-    "util": "^0.10.3"
+    "mocha": "^4.1.0",
+    "util": "^0.10.4"
   },
   "devDependencies": {
-    "axios": "^0.17.0",
-    "body-parser": "^1.18.2",
-    "express": "^4.16.2",
-    "underscore": "^1.8.3"
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "underscore": "^1.9.1"
   }
 }
